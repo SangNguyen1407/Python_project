@@ -33,5 +33,6 @@ float avg(int count, ...)
 
 int main ()
 {
+	cout << "test" << endl;
 	return RST_SUCCESS;
 }
